@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "static-site-boilerplate",
+  "private": true,
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "less": "3.9.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.0",
+    "gulp-uglify": "2.0.0",
+    "gulp-less": "3.1.0",
+    "del": "^2.2.2",
+    "gulp-webserver": "0.9.1"
+  }
+}

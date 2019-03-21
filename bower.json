@@ -1,0 +1,12 @@
+{
+  "name": "static-site-boilerplate",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "fontawesome": "^4.7.0",
+    "bootstrap": "~3.3.7",
+    "angular": "~1.6.8",
+    "angular-route": "~1.6.8",
+    "angular-sanitize": "~1.6.8"
+  }
+}
